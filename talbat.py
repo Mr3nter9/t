@@ -64,7 +64,7 @@ async def _9(event):
                         await client(JoinChannelRequest(nk))
                     else:pass
                     sleep(3)
-                    await event.reply('تم @rrcyi')
+                    await event.reply('تم')
                 except:pass
             else:
                 sleep(4)
